@@ -1,0 +1,24 @@
+# ── Système ───────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── Éditeurs ──────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# ── Logs et temporaires ───────────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+
+# ── WordPress (si jamais le repo est cloné dans une install WP) ───────────────
+wp-config.php
