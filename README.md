@@ -6,6 +6,17 @@ Créés en collaboration avec Claude (Anthropic), à partir d'un besoin concret 
 
 ---
 
+## Versions actuelles
+
+| Plugin | Version |
+|---|---|
+| `alt-auto-images.php` | 1.9 |
+| `alt-auto-videos.php` | 1.2 |
+| `alt-auto-audios.php` | 1.2 |
+| `alt-auto-on-save.php` | 1.5 |
+
+---
+
 ## Les quatre plugins
 
 ### 1. `alt-auto-images.php` — Traitement en masse des images
